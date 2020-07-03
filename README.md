@@ -1,6 +1,12 @@
 Word2Vec JSON
 ==================
 
+This repository is fork of [turbomaze/word2vecjson](https://github.com/turbomaze/word2vecjson).
+
+added JSONized data in `data` directory.
+
+---
+
 [Word2vec](https://code.google.com/p/word2vec/) represents words as vectors whose components encompass what the words mean. Algebraic operations on those vectors, like "king" - "man" + "woman", yield intuitively correct results, like "queen". This project provides the word vectors for the 1000, 5000, 10000, and 25000 most common English words in JSON.
 
 Demo at http://turbomaze.github.io/word2vecjson/.
